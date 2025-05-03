@@ -596,16 +596,6 @@ video {
   padding-right: 100px;
 }
 
-.px-\[400px\] {
-  padding-left: 400px;
-  padding-right: 400px;
-}
-
-.px-\[300px\] {
-  padding-left: 300px;
-  padding-right: 300px;
-}
-
 .px-\[200px\] {
   padding-left: 200px;
   padding-right: 200px;
@@ -644,10 +634,6 @@ video {
 @media (max-width: 510px) {
   .md\:block {
     display: block;
-  }
-
-  .md\:flex {
-    display: flex;
   }
 
   .md\:hidden {
